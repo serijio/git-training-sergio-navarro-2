@@ -11,8 +11,8 @@ public class Main {
 	String tercer = "Erza";
 
 	System.out.println("El orden de personajes femeninos de preferencia es:\n"
-				+ num1 + ": " + primer
-				+ num2 + ": " + segun
+				+ num1 + ": " + primer +  "\n"
+				+ num2 + ": " + segun + "\n"
 				+ num3 + ": " + tercer)
 	}
 }
