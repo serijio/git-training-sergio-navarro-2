@@ -13,6 +13,6 @@ public class Main {
 	System.out.println("El orden de personajes femeninos de preferencia es:\n"
 				+ num1 + ": " + primer +  "\n"
 				+ num2 + ": " + segun + "\n"
-				+ num3 + ": " + tercer)
+				+ num3 + ": " + tercer);
 	}
 }
